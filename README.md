@@ -12,6 +12,10 @@ This is a Python-based chatbot that helps students get information about timetab
 ## Files in this project
 - campus_assistant.py (main Python code)
 - flowchart.png (project flowchart)
+## Output Screenshots
+Below are sample outputs of the project:
+
+![Output 2](Ouput_chatbox.png)
 
 ## How to Run
 Run the following command in terminal:
